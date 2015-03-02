@@ -1,0 +1,9 @@
+<#
+Helpful when run daily to know where your vCenter and its components live.
+vCenter, SSO (if applicable), Web Client (if applicable), SQL (if VM)
+vCenter | Cluster | Hosts (Bold Current Host)
+SSO | Cluster | Hosts (Bold Current Host)
+Web Client | Cluster | Hosts (Bold Current Host)
+SQL | Cluster | Hosts (Bold Current Host)
+#>
+
